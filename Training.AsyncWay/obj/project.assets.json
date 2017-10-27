@@ -7045,11 +7045,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "F:\\projects\\Training.AsyncWay\\Training.AsyncWay\\Training.AsyncWay.csproj",
+      "projectUniqueName": "F:\\projects\\training.async-programming\\Training.AsyncWay\\Training.AsyncWay.csproj",
       "projectName": "Training.AsyncWay",
-      "projectPath": "F:\\projects\\Training.AsyncWay\\Training.AsyncWay\\Training.AsyncWay.csproj",
+      "projectPath": "F:\\projects\\training.async-programming\\Training.AsyncWay\\Training.AsyncWay.csproj",
       "packagesPath": "C:\\Users\\bkmza\\.nuget\\packages\\",
-      "outputPath": "F:\\projects\\Training.AsyncWay\\Training.AsyncWay\\obj\\",
+      "outputPath": "F:\\projects\\training.async-programming\\Training.AsyncWay\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bkmza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7060,12 +7060,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
